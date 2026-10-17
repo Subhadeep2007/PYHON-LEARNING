@@ -1,5 +1,5 @@
 student1 = {"coding", "gaming", "music", "cricket"}
-student2 = {"coding", "reading", "music", "footb"}
+student2 = {"coding", "reading", "music", "football"}
 
 # 1. All unique hobbies
 print("All hobbies:", student1 | student2)
